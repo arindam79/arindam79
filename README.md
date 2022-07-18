@@ -13,7 +13,7 @@
 --->
   <!---<img align="right" alt="Coding" width="400" height="290" src="https://www.1webexperts.com/knowledge-center/wp-content/uploads/2019/07/Blog-Cover.gif">
 --->
- <img align="right" alt="Coding" width="400" height="290" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img align="right" alt="Coding" width="400" height="290" src="https://www.1webexperts.com/knowledge-center/wp-content/uploads/2019/07/Blog-Cover.gif">
  
 
 
