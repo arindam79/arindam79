@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></p>
 
-<p>&nbsp;<img align="left" width="50%" style="display:flex" src="https://github-readme-stats.vercel.app/api?username=arindam79&show_icons=true&locale=en" alt="arindam79" /></p>
+<p>&nbsp;<img align="left" width="50%" style="display:flex;" src="https://github-readme-stats.vercel.app/api?username=arindam79&show_icons=true&locale=en" alt="arindam79" /></p>
 
 
